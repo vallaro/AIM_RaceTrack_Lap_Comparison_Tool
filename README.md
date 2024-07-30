@@ -9,6 +9,10 @@ A tool for visualizing and comparing laps on a race track using GPS data. This p
 - Zoom in on the track and follow the moving point
 - Display real-time telemetry data such as speed and elapsed time
 
+EXAMPLE: https://www.youtube.com/watch?v=hWge1PM26rc&t=3s
+
+RESULT: https://www.youtube.com/shorts/0ms2u-YVogc
+
 ## How to Use
 1. Upload your GPS data files in CSV format.
 2. Adjust the race track image coordinates in the code to match your GPS data.
